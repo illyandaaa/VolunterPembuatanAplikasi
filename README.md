@@ -6,6 +6,8 @@ Silakan gunakan format berikut:
 **\* Nama, [LinkedIn/GitHub/Website](Alamat URL).**  
 _Catatan: Pastikan sesuai dengan urutan yang ada._
 
+**\* Illyandaa, [GitHub](https://github.com/illyandaaa).** 
+
 Berikut daftar Volunter yang diterima:
 ### A
 * Achmad Aqrom Roid N.H, [GitHub](https://github.com/AARNH).
